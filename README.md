@@ -77,7 +77,7 @@ Tiene servicios generales que se pueden ser usados por los componentes o cualqui
 
 * Instalar typescript **npm install typescript**
 * Instalar dependencias tales como:
-   * express: **npm install express**
+   * express: **c**
    * ts-node **npm install ts-node --save-dev** 
    * type/express **npm install @types/express**
 
